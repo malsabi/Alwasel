@@ -1,0 +1,7 @@
+applications:
+    - name: wasel6818
+      path: .
+      memory: 186M
+      instances: 1
+      disk_quota: 512M
+      buildpack: staticfile_buildpack
